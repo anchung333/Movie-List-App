@@ -1,0 +1,19 @@
+.movie {
+  margin: 3px 60px;
+  padding: 20px 40px;
+  border: 1px solid #c9c9c9;
+  font-family: "Gill Sans", sans-serif;
+}
+
+.topbar {
+  background-color: #f0f0f0;
+  border: solid #f0f0f0;
+  padding: 20px;
+  margin: 0px 0px 60px 0px;
+}
+
+.title {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 20px;
+}
+
